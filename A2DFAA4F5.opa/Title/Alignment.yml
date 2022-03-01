@@ -1,0 +1,23 @@
+segment_sources:
+  PAE595996:
+    type: origin_type
+    relation: translation
+    language: bo
+  P2FFF2552:
+    type: origin_type
+    relation: translation
+    language: sa
+  P2CB5C9CD:
+    type: origin_type
+    relation: translation
+    language: en
+  P1D3F6BAE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  489f6ff4a6644903b98314c6f0bf0ac0:
+    PAE595996: 67f69a9f06904a528327482252f29803
+    P2FFF2552: 14c2653ade1f4b9fa3d5732fefceb82b
+    P2CB5C9CD: 767886bc778e45e492907f4e79569c1c
+    P1D3F6BAE: 0e08102c89b24312a580fb9289aa24a9
